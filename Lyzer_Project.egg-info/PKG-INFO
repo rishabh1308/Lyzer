@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Lyzer_Project
+Version: 0.0.1
+Author: Sarvpreet
+Author-email: sarvpreetk22@gmail.com
+Requires-Dist: pandas
+Requires-Dist: flask

@@ -1,0 +1,6 @@
+setup.py
+Lyzer_Project.egg-info/PKG-INFO
+Lyzer_Project.egg-info/SOURCES.txt
+Lyzer_Project.egg-info/dependency_links.txt
+Lyzer_Project.egg-info/requires.txt
+Lyzer_Project.egg-info/top_level.txt
